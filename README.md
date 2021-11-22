@@ -9,7 +9,7 @@
     Python3, Pytorch, NumPy, Pandas,
     Statistics.
 - 💞️ I’m looking to collaborate on Data Science projects 
-- 📫 How to reach me : madibkv0gmail.com
+- 📫 How to reach me : madibkv0@gmail.com
 
 <!---
 madibkv/madibkv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
